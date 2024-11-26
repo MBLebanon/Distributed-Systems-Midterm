@@ -1,0 +1,7 @@
+com\journaldev\jersey\mobiledevelopmentprojectapi\JakartaRestConfiguration.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\resources\Comment.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\resources\User.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\Application.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\DataBaseConnection.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\resources\JakartaEE10Resource.class
+com\journaldev\jersey\mobiledevelopmentprojectapi\resources\Recipe.class
